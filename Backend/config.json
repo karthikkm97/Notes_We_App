@@ -1,4 +1,4 @@
 {
-    "connectionString": "mongodb+srv://kathum000:kathum000@cluster0.gunkr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "connectionString": "Enter MongoDB link"
     
 }
